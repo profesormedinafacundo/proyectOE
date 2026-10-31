@@ -1,12 +1,11 @@
 # VetSync 1.0
-# Sistema de gestión de clínica veterinaria
+## Sistema de gestión de clínica veterinaria
 
 **Universidad Tecnológica Nacional**  
 **Tecnicatura Universitaria en Programación a Distancia**  
-## **Cátedra:** Organización Empresarial  
-## **Integrante:** Medina Facundo  
-## **Legajo:** 104614  
-## **Año:** 2026  
+**Cátedra:** Organización Empresarial  
+**Integrante:** Medina Facundo **|Legajo:** 104614  
+**Año:** 2026  
 
 ## **Descripción del proyecto**  
 Este proyecto tiene como objetivo el desarrollo de una "Plataforma veterinaria asistencial digital", enfocada en la virtualización e integración modular del negocio (turnos, historias clínicas, facturación e inventario) con el objetivo de agilizar la atención y la gestión general, mejorando la
@@ -20,9 +19,9 @@ Brindando soporte estratégico a una organización con el formato característic
 
 ## Enlaces
 ### Gestión del Backlog Ágil (Jira Software) 
-[Link al Tablero Kanban (VetSync 1.0)](https://profesormedinafacundo.atlassian.net/jira/software/projects/TPIO/boards/2?filter=&groupBy=none&atlOrigin=eyJpIjoiY2FlMGNhMDA0NDM3NGE2OWE4YTg3MTNhYThjNGQ5YzQiLCJwIjoiaiJ9)
+[Link al Tablero Kanban (VetSync 1.0)](https://profesormedinafacundo.atlassian.net/jira/software/projects/TPIO/boards/2?filter=&groupBy=none&atlOrigin=eyJpIjoiY2FlMGNhMDA0NDM3NGE2OWE4YTg3MTNhYThjNGQ5YzQiLCJwIjoiaiJ9)  
 **Nota de acceso:** El proyecto está configurado con **acceso abierto** en Jira Cloud.  
-En caso de que la plataforma solicite inicio de sesión o permisos de lectura para visualizar las tarjetas, solicitar acceso al correo: [profesormedinafacundo@gmail.com].
+En caso de que la plataforma solicite inicio de sesión o permisos de lectura para visualizar las tarjetas, solicitar acceso al correo: [profesormedinafacundo@gmail.com](profesormedinafacundo@gmail.com)
 
 ### Repositorio público en GitHub:
 [profesormedinafacundo/proyectOE](https://github.com/profesormedinafacundo/proyectOE)  
