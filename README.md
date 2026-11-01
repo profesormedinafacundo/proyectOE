@@ -28,9 +28,9 @@ En caso de que la plataforma solicite inicio de sesión o permisos de lectura pa
 (Contiene el historial de commits, flujo de ramas, Pull Requests y archivos del proyecto VetSync 1.0).\*
 
 ## Mecanismos e indicadores de control
-**1. Control de Inventario:** Alerta automática visual cuando la cantidad disponible de medicamentos o insumos alcanza el punto reorden para reavastecerse.  
+**1. Control de Inventario:** Alerta automática visual cuando la cantidad disponible de medicamentos o insumos alcanza el punto reorden para reabastecerse.  
 **2. Validación de Agenda:** Restricción en base de datos para evitar la superposición de turnos asistenciales en el mismo horario y profesional.  
-**3. Trazabilidad Clínica:** Firma digital y registro de id veterinario y timestamp automático en cada actualización de la Historia Clínica Digital.  
+**3. Trazabilidad Clínica:** Firma digital implícita mediante el registro automático de la marca de tiempo (timestamp) y el ID del veterinario interviniente en cada actualización clínica.  
 **4. Control de Autorización:** Autenticación por credenciales individuales (Usuario/Contraseña) para garantizar que cada rol acceda únicamente a los módulos autorizados (ejemplos: la Auxiliar no modifica diagnósticos médicos; el Veterinario no altera precios ni comprobantes de cobro).  
 **5. Auditoría de Operaciones:** Registro de *logs* internos para auditar qué usuario ejecutó la creación de un paciente, la modificación de un turno o la emisión de un comprobante.  
 
